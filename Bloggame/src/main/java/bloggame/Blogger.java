@@ -1,3 +1,6 @@
+/**
+ * Jun Chen
+ */
 package bloggame;
 
 import javax.validation.constraints.NotNull;
