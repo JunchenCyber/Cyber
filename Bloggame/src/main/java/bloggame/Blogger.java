@@ -1,4 +1,6 @@
-
+/**
+ * aaaa
+ */
 package bloggame;
 
 import javax.validation.constraints.NotNull;
