@@ -1,4 +1,4 @@
-package bloggame;
+package bloggame;   
 
 import java.util.Date;
 
