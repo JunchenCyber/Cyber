@@ -1,5 +1,5 @@
 /**
- * this is Blogger Java
+ * this is Blogger Java from Jun
  */
 package bloggame;
 
